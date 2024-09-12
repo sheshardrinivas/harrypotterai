@@ -4,11 +4,11 @@ import  pyautogui
 import colorama
 from colorama import Fore,Back,Style
 import time
-import webbrowser as web
 
+ 
 import datetime
 from playsound import playsound
-from datetime import date, timedelta
+
 colorama.init(autoreset=True)
 
 def say():
