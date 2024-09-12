@@ -1,2 +1,3 @@
 # harrypotterai
-ai
+
+It detects there spells right now but it whould updated soon.
